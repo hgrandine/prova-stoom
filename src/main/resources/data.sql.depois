@@ -1,0 +1,2 @@
+INSERT INTO ENDERECO (streetName, number, complement, neighbourhood, city, state, country, zipcode, latitude, longitude) VALUES
+  ('rua x', '5', 'casa', 'aclimacao', 'Sao Paulo', 'SP', 'brazil', '11111111', '5','10'),

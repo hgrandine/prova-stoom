@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: HUGOG
+Build-Jdk: 13.0.1
+Implementation-Title: prova-stoom
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: br.com.stoom.avaliacao
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/prova-stoom
+Created-By: Maven Integration for Eclipse
+

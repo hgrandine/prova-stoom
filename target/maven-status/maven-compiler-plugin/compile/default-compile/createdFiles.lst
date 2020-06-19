@@ -1,0 +1,6 @@
+br\com\stoom\avaliacao\service\EnderecoServiceImpl.class
+br\com\stoom\avaliacao\entidade\Endereco.class
+br\com\stoom\avaliacao\controller\EnderecoRestController.class
+br\com\stoom\avaliacao\Application.class
+br\com\stoom\avaliacao\repository\EnderecoRepository.class
+br\com\stoom\avaliacao\service\EnderecoService.class
